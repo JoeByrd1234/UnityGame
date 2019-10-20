@@ -1,3 +1,0 @@
-This is my test.txt
-
-Can you read this?
