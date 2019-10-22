@@ -51,3 +51,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b4e526173ce9d604485b9bb8f3a12c03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  squarePrefab: {fileID: 1453888313620732, guid: f150f9685b5f4904380e96e05d2f9c8b,
+    type: 2}
+  GRID_SIZE: 5
+  SIDE_LENGTH: 1
